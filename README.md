@@ -6,7 +6,7 @@ This is a combination of courses that I am taking to learn Elixir. I will be tak
 
 ## Numbers
 
-There are two types of numbers in _**Integers**_ and _**Floats**_.
+There are two types of numbers in Elixir _**Integers**_ and _**Floats**_.
 `2 / 1 = 2.0` Dividing returns a Float.
 `100000000` No matter how long our number gets it will be considered an Integer.
 `1_000_000_000` for readability you can add _**underscores**_ in place of a comma.
